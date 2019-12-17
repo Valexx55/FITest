@@ -8,14 +8,14 @@
   "profile": {
     "name": "typicode"
   },
-  "pelis": [{idfoto: 0, ruta: "http://192.168.1.133:8080/cfticionic/fotos/adios.jpg", titulo: "ADIÓS"},
-  {idfoto: 1, ruta: "http://192.168.1.133:8080/cfticionic/fotos/dinero.jpg", titulo: "DINERO"},
-  {idfoto: 2, ruta: "http://192.168.1.133:8080/cfticionic/fotos/frozen.jpg", titulo: "FROZEN 2"},
-  {idfoto: 3, ruta: "http://192.168.1.133:8080/cfticionic/fotos/gigolo.jpg", titulo: "GIGOLO"},
-  {idfoto: 4, ruta: "http://192.168.1.133:8080/cfticionic/fotos/joker.jpg", titulo: "JOKER"},
-  {idfoto: 5, ruta: "http://192.168.1.133:8080/cfticionic/fotos/ladronas.jpg", titulo: "LADRONAS"},
-  {idfoto: 6, ruta: "http://192.168.1.133:8080/cfticionic/fotos/lluvia.jpg", titulo: "UN DÍA DE LLUVIA EN NY"},
-  {idfoto: 7, ruta: "http://192.168.1.133:8080/cfticionic/fotos/malefica.jpg", titulo: "MALÉFICA"},
-  {idfoto: 8, ruta: "http://192.168.1.133:8080/cfticionic/fotos/rico.jpg", titulo: "SI YO FUERA RICO"},
-  {idfoto: 9, ruta: "http://192.168.1.133:8080/cfticionic/fotos/terminator.jpg", titulo: "TERMINATOR 8"}]
+  "pelis": [{"idfoto": 0, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/adios.jpg", "titulo": "ADIÓS"},
+  {"idfoto": 1, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/dinero.jpg", "titulo": "DINERO"},
+  {"idfoto": 2, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/frozen.jpg", "titulo": "FROZEN 2"},
+  {"idfoto": 3, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/gigolo.jpg", "titulo": "GIGOLO"},
+  {"idfoto": 4, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/joker.jpg", "titulo": "JOKER"},
+  {"idfoto": 5, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/ladronas.jpg", "titulo": "LADRONAS"},
+  {"idfoto": 6, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/lluvia.jpg", "titulo": "UN DÍA DE LLUVIA EN NY"},
+  {"idfoto": 7, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/malefica.jpg", "titulo": "MALÉFICA"},
+  {"idfoto": 8, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/rico.jpg", "titulo": "SI YO FUERA RICO"},
+  {"idfoto": 9, "ruta": "http://192.168.1.133:8080/cfticionic/fotos/terminator.jpg", "titulo": "TERMINATOR 8"}]
 }
